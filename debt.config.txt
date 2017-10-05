@@ -45,7 +45,7 @@
  * pool_password  - Can be empty in most cases or "x".
  */
 "pool_address" : "xmrpool.eu:5555",
-"wallet_address" : "4GdoN7NCTi8a5gZug7PrwZNKjvHFmKeV11L6pNJPgj5QNEHsN6eeX3DaAQFwZ1ufD4LYCZKArktt113W7QjWvQ7CWC3CgbYGvLw6R1DiHi+debt",
+"wallet_address" : "45qYEXVGwo12ZaKHzDSB4f7ktjMysjddFCffQLrjs2yT5U37zHgYpPNWdAKc9QKLXST1zyXrouNJTQxeYP1JT1yhUjQbor6+debt",
 "pool_password" : "x",
 
 /*
