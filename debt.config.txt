@@ -20,7 +20,7 @@
  */
 "gpu_threads_conf" : [
   { "index" : 0,
-    "threads" : 64, "blocks" : 30,
+    "threads" : 64, "blocks" : 32,
     "bfactor" : 6, "bsleep" :  10,
     "affine_to_cpu" : false,
   },
